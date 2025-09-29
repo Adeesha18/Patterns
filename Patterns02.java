@@ -1,6 +1,6 @@
 package com.RCB.Patterns;
 import java.util.Scanner;
-
+// All Patterns.
 public class Patterns02 {
     public static String sp="  ";
     public static void main(String[] args) {
@@ -17,7 +17,6 @@ public class Patterns02 {
         pa.Pattern07(a);
         pa.Pattern08(a);
         pa.Pattern09(a);
-
         sca.close();
     }
     void Pattern01(int a){
@@ -33,7 +32,6 @@ public class Patterns02 {
             System.out.println();
         }
     }
-
     void Pattern02(int a){
         System.out.println("\nPattern 02 :- \n");
         for(int i=1;i<=a;i++){
@@ -47,7 +45,6 @@ public class Patterns02 {
             System.out.println();
         }
     }
-
     void Pattern03(int a){
         System.out.println("\nPattern 03 :- \n");
         for(int i=1;i<=a;i++){
@@ -62,7 +59,6 @@ public class Patterns02 {
             System.out.println();
         }
     }
-
     void Pattern04(int a){
         System.out.println("\nPattern 04 :- \n");
         for(int i=1;i<=a;i++){
@@ -76,7 +72,6 @@ public class Patterns02 {
             System.out.println();
         }
     }
-
     void Pattern05(int a){
         System.out.println("\nPattern 05 :- \n");
         for(int i=1;i<=a;i++){
@@ -94,7 +89,6 @@ public class Patterns02 {
             System.out.println();
         }
     }
-
     void Pattern06(int a){
         System.out.println("\nPattern 06 :- \n");
         for(int i=1;i<=a;i++){
@@ -113,7 +107,6 @@ public class Patterns02 {
             System.out.println();
         }
     }
-
     void Pattern07(int a){
         System.out.println("\nPattern 07 :- \n");
         for(int i=1;i<=a;i++){
@@ -132,7 +125,6 @@ public class Patterns02 {
             System.out.println();
         }
     }
-
     void Pattern08(int a){
         System.out.println("\nPattern 08 :- \n");
         for(int i=1;i<=a;i++){
@@ -146,7 +138,6 @@ public class Patterns02 {
             System.out.println();
         }
     }
-
     void Pattern09(int a){
         System.out.println("\nPattern 09 :- \n");
         for(int i=a;i>=1;i--){

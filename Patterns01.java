@@ -1,6 +1,6 @@
 package com.RCB.Patterns;
 import java.util.Scanner;
-
+// All Patterns.
 public class Patterns01 {
     public static String sp="  ";
     public static void main(String[] args) {
